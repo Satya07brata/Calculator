@@ -1,0 +1,38 @@
+.heading-center{
+    text-align:center;
+    text-decoration-line : solid;
+}
+
+.main{
+    flex-direction: column;
+    display: flex;
+   
+
+}
+.Box{
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+}
+.heading{
+    padding: 2px;
+    
+}
+.button{
+    width: 60px;
+}
+.heading button{
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 9px;
+    margin: 2px;
+    cursor: pointer;
+    
+}
+.input{
+    font-size: 21px;
+    margin: 0px;
+    padding: 10px 3px;
+    border: 2px solid rgb(0, 0, 0);
+    border-radius: 10px;
+}

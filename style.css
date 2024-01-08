@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: linear-gradient( to right, rgb(255, 121, 237),rgb(35, 194, 162));
+}
+.div-main-box{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 7px;
+}
+.out{
+    background-color: rgb(242, 227, 20);
+    
+}
+.out-blue{
+    background-color: rgb(6, 50, 246);
+}
+.out-del{
+    background-color: rgb(255, 0, 0);
+}
